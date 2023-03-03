@@ -14,7 +14,7 @@ const Footer = () => {
           maxWidth="1024px"
           height={16}
         >
-          <p>Joan • © 2022</p>
+          <p>Joan Skënderi • © 2022</p>
         </Flex>
       </footer>
     </Box>
